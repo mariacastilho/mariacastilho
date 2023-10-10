@@ -1,17 +1,15 @@
-### Hi there 👋
+### bem vindo ao meu perfil 🌻
 
+Meu nome é maria
 
-**mariacastilho/mariacastilho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- estou estudando no [alura]
+- estou me desenvolvendo na linguagem html
+- utilizo esse espaço para minha organizaçãoe compartilhamento dos meus projetos desenvolvidos
 
-estou estudando no alura
-Here are some ideas to get you started:
+### entrar em contato comigo 📫
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+mariaeduardavicensicastilho@gmail.com
 
+@_.euududa
+
+![](https://tenor.com/pt-BR/view/smurf-aesthetic-yass-gif-25754068)
